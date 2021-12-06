@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>preview</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Common.fs" />
+        <Compile Include="Day1.fs" />
+        <Compile Include="Day2.fs" />
+        <Compile Include="Day3.fs" />
+        <Compile Include="Program.fs" />
+        <Content Include="inputs\1a.txt" />
+        <Content Include="inputs\1t.txt" />
+        <Content Include="inputs\2t.txt" />
+        <Content Include="inputs\2a.txt" />
+    </ItemGroup>
+
+</Project>

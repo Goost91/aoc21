@@ -16,6 +16,8 @@
         <Content Include="inputs\1t.txt" />
         <Content Include="inputs\2t.txt" />
         <Content Include="inputs\2a.txt" />
+        <Content Include="inputs\3t.txt" />
+        <Content Include="inputs\3a.txt" />
     </ItemGroup>
 
 </Project>
